@@ -1,0 +1,22 @@
+{
+  "name": "cs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudi77/sc.git"
+  },
+  "keywords": [
+    "mudmen"
+  ],
+  "author": "igor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudi77/sc/issues"
+  },
+  "homepage": "https://github.com/mudi77/sc#readme"
+}
