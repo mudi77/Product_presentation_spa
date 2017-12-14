@@ -9,4 +9,4 @@ JavaScript, CSS, HTML
 
 ## link
 
-[![app link](http://viet-akt.herokuapp.com/)](http://viet-akt.herokuapp.com/)
+[![app link](http://theftminator.eu/)](http://theftminator.eu/)
