@@ -2,7 +2,7 @@
 
 Simple product presentation page (old)
 
-### Tech : 
+### Tech stack : 
 
 JavaScript, CSS, HTML
 
